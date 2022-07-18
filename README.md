@@ -1,6 +1,6 @@
 # Web-Scraping-in-Node.js
 
-install npm from terminal
+install node package from terminal
 
 Write below commands..
 
