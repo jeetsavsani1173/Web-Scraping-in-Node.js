@@ -2,7 +2,7 @@
 
 install node package from terminal
 
-Write below commands..
+Write below commands in cmd..
 
         npm i request
         
